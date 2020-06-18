@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GraphDisplay:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GraphDisplay_jar</output-path>
+    <root id="archive" name="GraphDisplay.jar">
+      <element id="module-output" name="GraphDisplay" />
+    </root>
+  </artifact>
+</component>
